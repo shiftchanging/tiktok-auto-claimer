@@ -54,6 +54,8 @@ print("""
               #BTW IF YOUR LOOKING AT THE CODE THIS A JOKE DOESNT ACC WORK LOL
               #troll your friends with it and tiktok and tag me @shiftchangings auto claimer
               #only took me 10 minutes LOLL
+              #and dont be wet dont sell it
+         
 
 
 webbrowser.open("https://www.tiktok.com/@shiftchanging")
